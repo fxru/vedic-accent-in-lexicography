@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.16)  21 SEP 2016 22:58
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.16)  21 SEP 2016 23:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -698,20 +698,275 @@ Package typearea Info: These are the values describing the layout:
 (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrpage2.sty
 Package: scrpage2 2015/05/06 v3.17a KOMA-Script package (page head and foot)
 LaTeX Info: Redefining \pagemark on input line 174.
-))
-Runaway argument?
-{\begin {scriptsizeLazarus Project (Cologne Sanskrit Lexicon) Project\ETC.
-./vedic-accent-in-lexicography.tex:2: File ended while scanning use of \@argdef.
-<inserted text> 
-                \par 
-l.2 \input{./files/head}
-                        
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count127
+\rotFPtop=\skip54
+\rotFPbot=\skip55
+\rot@float@box=\box42
+\rot@mess@toks=\toks17
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+\c@tracingmulticols=\count128
+\mult@box=\box43
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count129
+\c@collectmore=\count130
+\doublecol@number=\count131
+\multicoltolerance=\count132
+\multicolpretolerance=\count133
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box44
+\last@line=\box45
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box46
+\mult@grightbox=\box47
+\mult@gfirstbox=\box48
+\mult@firstbox=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\c@columnbadness=\count134
+\c@finalcolumnbadness=\count135
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box67
+\colbreak@box=\box68
+\mc@col@check@num=\count136
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip58
+\bibsep=\skip59
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count137
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+Package: xltxtra 2010/09/20 v0.5e Improvements for the "XeLaTeX" format
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2013/03/18 v0.3c Access OpenType subscripts and superscripts
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesubscript with sig. 'm' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesuperscript with sig. 'm' on line 22.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsubscript with sig. 's' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsuperscript with sig. 's' on line 28.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsubscript with sig. 'm' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsuperscript with sig. 'm' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsubsuperscript with sig. 'sO{l}mm' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
+.................................................
+\subsupersep=\dimen148
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks18
+\xl@@everylogo=\toks19
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\xxt@tempbox=\box69
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count138
+\Hy@pagecounter=\count139
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count140
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count141
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen150
+\Fld@menulength=\count142
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count143
+\c@Item=\count144
+\c@Hfootnote=\count145
+)
 
-(/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.aux)
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box70
+\c@Hy@AnnotLevel=\count146
+\HyField@AnnotCount=\count147
+\Fld@listcount=\count148
+\c@bookmark@seq@number=\count149
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+(rerunfilecheck)             Therefore file contents cannot be checked efficiently
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip60
+)
+Package hyperref Info: Option `unicode' set `true' on input line 120.
+
+
+Package hyperref Warning: Option `pdftex' has already been used,
+(hyperref)                setting the option has no effect on input line 120.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 120.
+
+Package hyperref Warning: Option `pagecolor' is not available anymore.
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/gb4e/gb4e.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/gb4e/cgloss4e.sty
+\lineone=\box71
+\linetwo=\box72
+\linethree=\box73
+\wordone=\box74
+\wordtwo=\box75
+\wordthree=\box76
+\gline=\box77
+\glossglue=\skip61
+)
+\c@fnx=\count150
+\@xnumdepth=\count151
+\c@xnumi=\count152
+\c@xnumii=\count153
+\c@xnumiii=\count154
+\c@xnumiv=\count155
+\c@exx=\count156
+\c@rxnumi=\count157
+\c@rxnumii=\count158
+\c@rxnumiii=\count159
+\c@rxnumiv=\count160
+\lcommentsep=\skip62
+) (/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.aux)
 \openout1 = `vedic-accent-in-lexicography.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -733,6 +988,10 @@ LaTeX Font Info:    Try loading font information for T3+cmr on input line 6.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 .................................................
 . fontspec info: "setup-math"
@@ -792,6 +1051,30 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/HelveticaNeueLight(0)/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/Menlo(0)/bx/n on input line 6.
+\AtBeginShipoutBox=\box78
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+LaTeX Info: Redefining \color on input line 81.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 142.
+)
+Package hyperref Info: Link coloring ON on input line 6.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count161
+)
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \nameref on input line 6.
+ (/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.out) (/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.out)
+\@outlinefile=\write3
+\openout3 = `vedic-accent-in-lexicography.out'.
+
 File: ./imgs/cdsl-logo.png Graphic file (type QTm)
  <use  "./imgs/cdsl-logo.png" >
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -823,719 +1106,90 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
 ]
 Chapter 1.
-./vedic-accent-in-lexicography.tex:21: Undefined control sequence.
-l.21 ...of the linguistic phenomenon itself \citep
-                                                  [see][among others]{Kipars...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (3.45686pt too wide) in paragraph at lines 21--22
-\EU1/Cambria(0)/m/n/10 sides the intricacies of the linguistic phenomenon itself [see][among others]Kiparsky1973,
- []
-
-./vedic-accent-in-lexicography.tex:27: Undefined control sequence.
-l.27 ...sed to have a free pitch accent – \citet
-                                                  {Kiparsky1973}, \citet{Lub...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:27: Undefined control sequence.
-l.27 ...ch accent – \citet{Kiparsky1973}, \citet
-                                                  {Lubotsky1988} among many ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:29: Undefined control sequence.
-l.29 ...ounded’) is seen as falling pitch \citep
-                                                  [p.~27]{Whitney1869}. \cit...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:29: Undefined control sequence.
-l.29 ...g pitch \citep[p.~27]{Whitney1869}. \citet
-                                                  {Kiparsky1973} analyses th...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 [3
 
-] [4]
+]
+LaTeX Font Info:    Font shape `EU1/Cambria(0)/m/sl' in size <10> not available
+(Font)              Font shape `EU1/Cambria(0)/m/it' tried instead on input line 31.
+LaTeX Font Info:    Font shape `EU1/Cambria(0)/m/sl' in size <7> not available
+(Font)              Font shape `EU1/Cambria(0)/m/it' tried instead on input line 31.
+ [4]
 Chapter 2.
-./vedic-accent-in-lexicography.tex:33: Undefined control sequence.
-l.33 ...aphic works will be discussed here. \citet
-                                                  {Witzel1974} describes the...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:33: Undefined control sequence.
-l.33 ...e primary or udātta accent or not. \citet
-                                                  {Scharf2007} presents a de...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:33: Undefined control sequence.
-l.33 ...king systems taken and adapted from \citet
-                                                  {MYV1964}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:39: Undefined control sequence.
-l.39 ..., and several other text traditions \citep
-                                                  [see][for more information...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 39.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 39.
-./vedic-accent-in-lexicography.tex:41: Undefined control sequence.
-<argument> ...@ \footnotesep \ignorespaces \citet 
-                                                  [p.~449]{Macdonell1916} il...
-l.41 ...llowing syllable tyam has the Udātta.”}
-                                                    \citet[p.~449]{Macdonell...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:41: Undefined control sequence.
-<argument> ...accent. However according to \citet 
-                                                  [p.~449]{Macdonell1916} th...
-l.41 ...llowing syllable tyam has the Udātta.”}
-                                                    \citet[p.~449]{Macdonell...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:41: Undefined control sequence.
-l.41 ...syllable tyam has the Udātta.”}  \citet
-                                                  [p.~449]{Macdonell1916} el...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:45: LaTeX Error: Environment exe undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 \begin{exe}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:46: Undefined control sequence.
-l.46 \ex
-        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:47: LaTeX Error: Environment xlist undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \begin{xlist}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:48: Undefined control sequence.
-l.48 \ex
-         {\begin{devfont}अ॒ग्निमी॑ळे पु॒रो�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:49: Undefined control sequence.
-l.49 \ex
-         {a̲gnim ī̀ḷe pu̲rohìtaṃ ya̲jñasyà de̲vam r̥̲tvija�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:50: Undefined control sequence.
-l.50 \ex
-         {agním īḷe puróhitaṃ yajñásya devám r̥tvíjam {\devfont ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:51: LaTeX Error: \begin{document} ended by \end{xlist}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.51 \end{xlist}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./vedic-accent-in-lexicography.tex:52: LaTeX Error: \begin{document} ended by \end{exe}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 \end{exe}
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Cambria(1)' created for font 'Cambria' with options
+. [Ligatures=TeX,Mapping=tex-text,VerticalPosition=Superior].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->"Cambria/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->"Cambria/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. 
+. <->"Cambria/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->"Cambria/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. 
+. <->"Cambria/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->"Cambria/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. 
+. <->"Cambria/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->"Cambria/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+sups;+smcp;"
+. and font adjustment code:
+. 
+.................................................
 [5
 
 ]
-./vedic-accent-in-lexicography.tex:57: Undefined control sequence.
-l.57 ...e Sāmaveda. It is not discussed by \citet
-                                                  {Witzel1974} on the ground...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:57: Undefined control sequence.
-l.57 ...usical reproduction of the texts” \citep
-                                                  [p.~473]{Witzel1974}. The ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (44.64833pt too wide) in paragraph at lines 57--58
-\EU1/Cambria(0)/m/n/10 Witzel1974 on the grounds that it is “based on musical reproduction of the texts” [p. 473]Witzel1974.
+Overfull \hbox (2.72939pt too wide) in paragraph at lines 57--58
+[][]\EU1/Cambria(0)/m/n/10 Witzel[][] ([][]1974[][]) on the grounds that it is “based on musical reproduction of the texts” ([][]Witzel[][],
  []
 
 File: ./imgs/SV-II-9-3-8-2.png Graphic file (type QTm)
-<use  "./imgs/SV-II-9-3-8-2.png" >
-./vedic-accent-in-lexicography.tex:68: Undefined control sequence.
-l.68 ...ate to be discussed here in detail. \citet
-                                                  [p.~19]{Scharf2007} descri...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:70: LaTeX Error: Environment exe undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 \begin{exe}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:71: Undefined control sequence.
-l.71 \ex
-        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:72: LaTeX Error: Environment xlist undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 \begin{xlist}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:73: Undefined control sequence.
-l.73 \ex
-         \begin{devfont}ते꣡षां꣢ वो अ꣣ग्नि꣡�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:74: Undefined control sequence.
-l.74 \ex
-         téṣā̀ṃ vo a̲gnínùnnānā̲míndrò hantu̲ váràṃvaram
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:75: Undefined control sequence.
-l.75 \ex
-         téṣāṃ vo agnínunnānāmíndro hantu váraṃvaram
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:76: LaTeX Error: \begin{document} ended by \end{xlist}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 \end{xlist}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./vedic-accent-in-lexicography.tex:77: LaTeX Error: \begin{document} ended by \end{exe}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 \end{exe}
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (4.75566pt too wide) in paragraph at lines 73--78
-[]\EU1/AnnapurnaSIL(0)/m/n/10 ते꣡षां꣢ वो अ꣣ग्नि꣡नु꣢न्नाना꣣मिं꣡द्रो꣢ हंतु꣣ व꣡रं꣢वाराम् \EU1/Cambria(0)/m/n/10 téṣā̀ṃ vo a̲gnínùnnānā̲míndrò hantu̲ váràṃvaram téṣāṃ
- []
-
-./vedic-accent-in-lexicography.tex:80: Undefined control sequence.
-l.80 \citet
-           [p.~228-229]{Howard1986}\footnote{Taken from \citet[p.~3]{Everson...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:80: Undefined control sequence.
-<argument> ...sep \ignorespaces Taken from \citet 
-                                                  [p.~3]{EversonScharf2007}....
-l.80 ...ken from \citet[p.~3]{EversonScharf2007}.}
-                                                   describes the Sāmaveda s...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:82: Undefined control sequence.
-<argument> ...udātta-like high pitch. See \citet 
-                                                  {Whitney1869} for a descri...
-l.82 ...869} for a description of pracaya accent.}
-                                                   syllables have no marking...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[6]
-./vedic-accent-in-lexicography.tex:86: Undefined control sequence.
-l.86 ...reted the system in different ways. \citet
-                                                  [p.~88]{Whitney1889} dismi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:86: Undefined control sequence.
-l.86 ...” and does not discuss it at all. \citet
-                                                  [p.~451]{Macdonell1916} in...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:86: Undefined control sequence.
-l.86 ...eceding syllable as udātta accent. \citet
-                                                  {Hoffmann1956},  \citep[En...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:86: Undefined control sequence.
-l.86 ...�tta accent. \citet{Hoffmann1956},  \citep
-                                                  [English translation in][p...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:86: Undefined control sequence.
-l.86 ...age from the Śatapatha Brāhmaṇa \citep
-                                                  {Weber1849} demonstrates t...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:86: Undefined control sequence.
-<argument> ... double underscores found in \citet 
-                                                  {Weber1849} were introduce...
-l.86 ...s would also feature a simple underscore.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:86: Undefined control sequence.
-<argument> ...terpreted as udātta markers \citep 
-                                                  [][p.~xii-xiii]{Weber1849}...
-l.86 ...s would also feature a simple underscore.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+<use  "./imgs/SV-II-9-3-8-2.png" > [6]
 
 LaTeX Warning: Reference `./imgs/SBr-3-5-4-13-highlighted.png' on page 7 undefined on input line 88.
-
-./vedic-accent-in-lexicography.tex:88: Undefined control sequence.
-l.88 ...o be found in part as quotations in \citet
-                                                  {pwg} and are repeated in ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 File: ./imgs/SBr-1-1-2-9-highlighted.png Graphic file (type QTm)
 <use  "./imgs/SBr-1-1-2-9-highlighted.png" >
 File: ./imgs/SBr-3-5-4-13-highlighted.png Graphic file (type QTm)
- <use  "./imgs/SBr-3-5-4-13-highlighted.png" >
-
-./vedic-accent-in-lexicography.tex:108: LaTeX Error: Environment exe undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.108 \begin{exe}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:109: Undefined control sequence.
-l.109 \ex
-         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:110: LaTeX Error: Environment xlist undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 \begin{xlist}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:111: Undefined control sequence.
-l.111 \ex
-          \begin{devfont}अग्नि॒दग्धमिवैषां...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:112: Undefined control sequence.
-l.112 \ex
-          agni̲dagdhamivaiṣāṃ va̲ham bhavati
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:113: Undefined control sequence.
-l.113 \ex
-          agnídagdhamivaiṣāṃ váham bhavati
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:114: LaTeX Error: \begin{document} ended by \end{xlist}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114 \end{xlist}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./vedic-accent-in-lexicography.tex:115: LaTeX Error: \begin{document} ended by \end{exe}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 \end{exe}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (7.92622pt too wide) in paragraph at lines 111--116
-[]\EU1/AnnapurnaSIL(0)/m/n/10 अग्नि॒दग्धमिवैषां व॒हं भवति \EU1/Cambria(0)/m/n/10 agni̲dagdhamivaiṣāṃ va̲ham bhavati agnídagdhamivaiṣāṃ váham
+ <use  "./imgs/SBr-3-5-4-13-highlighted.png" > [7]
+Overfull \hbox (22.70006pt too wide) in paragraph at lines 128--129
+\EU1/Cambria(0)/m/n/10 The Böhtlingk & Roth system is used in the große Petersburger Sanskrit-Wörterbuch ([][]Böhtlingk
  []
 
 
-./vedic-accent-in-lexicography.tex:117: LaTeX Error: Environment exe undefined.
+Overfull \hbox (1.47282pt too wide) in paragraph at lines 128--129
+\EU1/Cambria(0)/m/n/10 and Roth[][], [][]1855-1875[][]) and the Sanskrit-Wörterbuch in kürzerer Fassung ([][]Böhtlingk[][], [][]1879-
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.117 \begin{exe}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:118: Undefined control sequence.
-l.118 \ex
-         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:119: LaTeX Error: Environment xlist undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.119 \begin{xlist}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:120: Undefined control sequence.
-l.120 \ex
-          \begin{devfont}ता॒नक्ष्णया सं॒तृ�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:121: Undefined control sequence.
-l.121 \ex
-          tā̲nakṣṇayā sa̲ṃtr̥ndanti ya̲dyakṣṇayā na̲ śakn...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:122: Undefined control sequence.
-l.122 \ex
-          tā́nakṣṇayā sáṃtr̥ndanti yádyakṣṇayā ná śaknuy�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:123: LaTeX Error: \begin{document} ended by \end{xlist}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.123 \end{xlist}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./vedic-accent-in-lexicography.tex:124: LaTeX Error: \begin{document} ended by \end{exe}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.124 \end{exe}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:128: Undefined control sequence.
-l.128 ... Petersburger Sanskrit-Wörterbuch \citep
-                                                  {pwg} and the Sanskrit-Wö...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:128: Undefined control sequence.
-l.128 ...t-Wörterbuch in kürzerer Fassung \citep
-                                                  {pw}. This system is also ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:128: Undefined control sequence.
-l.128 ...p{pw}. This system is also used by \citet
-                                                  {Whitney1889}. Originally ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:128: Undefined control sequence.
-l.128 ...ney1889}. Originally developed for \citet
-                                                  {pwg}, Böhtlingk and Roth...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:128: Undefined control sequence.
-l.128 ...nt marking diacritic as typeset in \citet
-                                                  {pwg}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[7]
 File: ./imgs/agotA2.jpg Graphic file (type QTm)
- <use  "./imgs/agotA2.jpg" >
-./vedic-accent-in-lexicography.tex:139: Undefined control sequence.
-l.139 ...vation by Böhtlingk, according to \citet
-                                                  [p.~30]{Whitney1889}. Howe...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:139: Undefined control sequence.
-l.139 ... of udātta accent in this system. \citet
-                                                  [p.~485]{Witzel1974} menti...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (12.40257pt too wide) in paragraph at lines 139--140
-[]\EU1/Cambria(0)/m/n/10 Marking udātta accent by a raised \EU1/AnnapurnaSIL(0)/m/n/10 उ \EU1/Cambria(0)/m/n/10 is an innovation by Böhtlingk, according to [p. 30]Whit-
- []
-
-[8]
+<use  "./imgs/agotA2.jpg" > [8]
 
 Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              You should note, that in 1994 font command `\sc' has
@@ -1577,125 +1231,11 @@ Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              of `\sc' anytime until release of about version 3.20.
 (scrreprt)              But for now, KOMA-Script will replace deprecated `\sc'
 (scrreprt)              by `\normalfont \scshape ' on input line 153.
-
-
-./vedic-accent-in-lexicography.tex:155: LaTeX Error: Environment exe undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.155 \begin{exe}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:156: Undefined control sequence.
-l.156 \ex
-         \label{ex:rgnormal} agním īḷe puróhitaṃ yajñásya devám r�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:157: LaTeX Error: \begin{document} ended by \end{exe}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.157 \end{exe}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./vedic-accent-in-lexicography.tex:162: LaTeX Error: Environment exe undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.162 \begin{exe}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:163: Undefined control sequence.
-l.163 \ex
-         \label{ex:rgisoanu} a̲gním īḷe pu̲róhitaṃ ya̲jñásya de�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:164: LaTeX Error: \begin{document} ended by \end{exe}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.164 \end{exe}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:166: Undefined control sequence.
-l.166 ...ent marking system as described by \citet
-                                                  [p.~449]{Macdonell1916}, a...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 
 Overfull \hbox (5.18195pt too wide) in paragraph at lines 166--167
 \EU1/Cambria(0)/m/n/10 syllables following the start of a half-line are marked as anudātta accent. However, anudātta
  []
-
-
-./vedic-accent-in-lexicography.tex:168: LaTeX Error: Environment exe undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.168 \begin{exe}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./vedic-accent-in-lexicography.tex:169: Undefined control sequence.
-l.169 \ex
-         \label{ex:rgsyslat} a̲gním īḷe pu̲róhita̲ṃ ya̲jñásya d...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./vedic-accent-in-lexicography.tex:170: LaTeX Error: \begin{document} ended by \end{exe}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.170 \end{exe}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 [9] [10]
 Chapter 3.
@@ -1713,6 +1253,8 @@ Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              But for now, KOMA-Script will replace deprecated `\sc'
 (scrreprt)              by `\normalfont \scshape ' on input line 182.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 186.
 
 Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              You should note, that in 1994 font command `\sc' has
@@ -1783,24 +1325,6 @@ Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              But for now, KOMA-Script will replace deprecated `\sc'
 (scrreprt)              by `\normalfont \scshape ' on input line 195.
 
-./vedic-accent-in-lexicography.tex:195: Undefined control sequence.
-l.195 ...d several other textual traditions \citep
-                                                  [p.~159]{ScharfHyman2011}....
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:195: Undefined control sequence.
-l.195 ...hitā and the Kaṭhaka Saṃhitā \citep
-                                                  [p.~450]{Macdonell1916}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 Overfull \hbox (1.29057pt too wide) in paragraph at lines 195--196
 \EU1/Cambria(0)/m/n/10 Representing the marking of Vedic accents as found in Devanagari script is far less straight-
@@ -1844,15 +1368,6 @@ Class scrreprt Warning: Usage of deprecated font command `\sc'!
 
 File: ./imgs/j-shape.png Graphic file (type QTm)
 <use  "./imgs/j-shape.png" >
-./vedic-accent-in-lexicography.tex:218: Undefined control sequence.
-l.218 ...included following the proposal by \citet
-                                                  {EversonScharf2007}. This ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              You should note, that in 1994 font command `\sc' has
@@ -1924,132 +1439,19 @@ Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              by `\normalfont \scshape ' on input line 234.
 
 [12]
-./vedic-accent-in-lexicography.tex:240: Undefined control sequence.
-l.240 ...coding scheme (SLP1) as defined in \citet
-                                                  {ScharfHyman2011} is an el...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (13.86378pt too wide) in paragraph at lines 240--241
-\EU1/Cambria(0)/m/n/10 The Sanskrit Library Phonetic Basic encoding scheme (SLP1) as defined in ScharfHyman2011
- []
-
-./vedic-accent-in-lexicography.tex:242: Undefined control sequence.
-l.242 ...y consists of eight basic elements \citep
-                                                  [p.~154]{ScharfHyman2011}:
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Font Info:    Font shape `EU1/Menlo(0)/m/n' will be
 (Font)              scaled to size 8.56766pt on input line 250.
-./vedic-accent-in-lexicography.tex:265: Undefined control sequence.
-l.265 ...om a lexicographical point of view \citep
-                                                  [p.~155]{ScharfHyman2011}:
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-./vedic-accent-in-lexicography.tex:285: Undefined control sequence.
-l.285 ...s. As an example, SLP1 \texttt{a/} \citep
-                                                  [p.~162; also SLP2 002]{Sc...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (2.01192pt too wide) in paragraph at lines 285--286
+\EU1/Cambria(0)/m/n/10 R̥gveda Khilāni, and Kahmiri manuscripts of the Vājasaneyi Saṃhitā of the Śukla Yajurveda,
+ []
 
-./vedic-accent-in-lexicography.tex:285: Undefined control sequence.
-l.285 ...Saṃhitā of the Kauthuma Śakhā \citep
-                                                  [p.~162]{ScharfHyman2011}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[13]
-./vedic-accent-in-lexicography.tex:287: Undefined control sequence.
-l.287 ...nt text traditions can be found in \citep
-                                                  [p.~162-203; also SLP2 002...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[14]
+[13] [14]
 Chapter 4.
-./vedic-accent-in-lexicography.tex:291: Undefined control sequence.
-l.291 ...ies that indicate Vedic accent are \citet
-                                                  {pwg}, \citet{gra}, \citet...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-./vedic-accent-in-lexicography.tex:291: Undefined control sequence.
-l.291 ...cate Vedic accent are \citet{pwg}, \citet
-                                                  {gra}, \citet{pw}, \citet{...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:291: Undefined control sequence.
-l.291 ...cent are \citet{pwg}, \citet{gra}, \citet
-                                                  {pw}, \citet{ccs,cae}, as ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:291: Undefined control sequence.
-l.291 ...tet{pwg}, \citet{gra}, \citet{pw}, \citet
-                                                  {ccs,cae}, as well as \cit...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:291: Undefined control sequence.
-l.291 ...t{pw}, \citet{ccs,cae}, as well as \citet
-                                                  {mw}. However, only \citet...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:291: Undefined control sequence.
-l.291 ... well as \citet{mw}. However, only \citet
-                                                  {pwg} mark Vedic accent in...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:295: Undefined control sequence.
-l.295 \citet
-            {pwg} – also known as \emph{großes Petersburger Sanskrit-Wör...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (2.11247pt too wide) in paragraph at lines 295--296
+[][]\EU1/Cambria(0)/m/n/10 Böhtlingk and Roth[][] ([][]1855-1875[][]) – also known as \EU1/Cambria(0)/m/it/10 großes Petersburger Sanskrit-Wörterbuch
+ []
 
 File: ./imgs/agotA.png Graphic file (type QTm)
 <use  "./imgs/agotA.png" >
@@ -2062,183 +1464,22 @@ File: ./imgs/agnidagDa.png Graphic file (type QTm)
 File: ./imgs/akSNaya.png Graphic file (type QTm)
  <use  "./imgs/akSNaya.png" > [15
 
-]
-./vedic-accent-in-lexicography.tex:347: Undefined control sequence.
-l.347 ...ystem. According to the preface of \citet
-                                                  {pwg}, only Weber’s edit...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:347: Undefined control sequence.
-l.347 ...the Śatapatha Brāhmaṇa is used \citep
-                                                  {Weber1849}. This text edi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:349: Undefined control sequence.
-l.349 ...tha Brāhmaṇa, all quotations in \citet
-                                                  {pwg} seem to use the R̥g...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[16]
-./vedic-accent-in-lexicography.tex:351: Undefined control sequence.
-l.351 ...from the Śatapatha Brāhmaṇa in \citet
-                                                  {pwg}. The interpretation ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:351: Undefined control sequence.
-l.351 ...etation is generally attributed to \citet
-                                                  {Hoffmann1956}. The previo...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:351: Undefined control sequence.
-l.351 ...red interpretation can be found in \citet
-                                                  [p.~451]{Macdonell1916}, b...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:351: Undefined control sequence.
-l.351 ...anslated into the R̥gveda system. \citet
-                                                  {pwg} contains over 10000 ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:353: Undefined control sequence.
-l.353 ...t-Wörterbuch in kürzerer Fassung \citep
-                                                  {pw} employs the same syst...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:353: Undefined control sequence.
-l.353 ... Petersburger Sanskrit-Wörterbuch \citep
-                                                  {pwg}. Since \citet{pw} do...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:353: Undefined control sequence.
-l.353 ...rit-Wörterbuch \citep{pwg}. Since \citet
-                                                  {pw} does not contain quot...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+] [16]
+Overfull \hbox (2.67924pt too wide) in paragraph at lines 349--350
+\EU1/Cambria(0)/m/n/10 quotes from the R̥gveda and the Atharvaveda, but also quoted passages from the Sāmaveda,
+ []
 
 
-Underfull \vbox (badness 1147) has occurred while \output is active []
+Overfull \hbox (4.78987pt too wide) in paragraph at lines 353--354
+[]\EU1/Cambria(0)/m/n/10 The Sanskrit-Wörterbuch in kürzerer Fassung ([][]Böhtlingk[][], [][]1879-1889[][]) employs the same
+ []
 
- [17]
-./vedic-accent-in-lexicography.tex:357: Undefined control sequence.
-l.357 ...of the Sanskrit-English Dictionary \citep
-                                                  {mw}. Accent is only marke...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-./vedic-accent-in-lexicography.tex:357: Undefined control sequence.
-l.357 ...the introduction of the dictionary \citep
-                                                  [][p.~xviii]{mw}. The orig...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (17.11412pt too wide) in paragraph at lines 353--354
+\EU1/Cambria(0)/m/n/10 system to mark Vedic accent in the headwords as the große Petersburger Sanskrit-Wörterbuch
+ []
 
-./vedic-accent-in-lexicography.tex:357: Undefined control sequence.
-l.357 ...{mw}. The original edition of 1872 \citep
-                                                  {mw72} did not mark accent...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:361: Undefined control sequence.
-l.361 ... in his dictionary of the R̥gveda \citep
-                                                  {gra} records accents. The...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:367: Undefined control sequence.
-l.367 Cappeller in his Sanskrit Wörterbuch \citep
-                                                  {ccs} and his Sanskrit-Eng...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:367: Undefined control sequence.
-l.367 ...nd his Sanskrit-English Dictionary \citep
-                                                  {cae} follows \citet{pwg} ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:367: Undefined control sequence.
-l.367 ...ish Dictionary \citep{cae} follows \citet
-                                                  {pwg} in setting Sanskrit ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:367: Undefined control sequence.
-l.367 ...cents. However, the system used in \citet
-                                                  {ccs,cae} is different in ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:367: Undefined control sequence.
-l.367 ...e seen in the entry śapathya from \citet
-                                                  {cae} in Figure \ref{fig:C...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+[17]
 
 Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              You should note, that in 1994 font command `\sc' has
@@ -2268,171 +1509,9 @@ Class scrreprt Warning: Usage of deprecated font command `\sc'!
 (scrreprt)              by `\normalfont \scshape ' on input line 367.
 
 File: ./imgs/Capeller-SapaTya.png Graphic file (type QTm)
-<use  "./imgs/Capeller-SapaTya.png" >
-./vedic-accent-in-lexicography.tex:375: Undefined control sequence.
-<argument> ...paces The entry śapathya in \citet 
-                                                  {cae}}}{\thepage }}
-l.375 ...paTya}The entry śapathya in \citet{cae}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:375: Undefined control sequence.
-<argument> ...paTya}The entry śapathya in \citet 
-                                                  {cae}\unskip \strut }}
-l.375 ...paTya}The entry śapathya in \citet{cae}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:375: Undefined control sequence.
-<argument> ...paTya}The entry śapathya in \citet 
-                                                  {cae}}}
-l.375 ...paTya}The entry śapathya in \citet{cae}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:380: Undefined control sequence.
-l.380 \citet
-            {md} represents Sanskrit headwords in Devanagari and Latin scrip...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:380: Undefined control sequence.
-l.380 ...tance of an independent svarita in \citet
-                                                  {md}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (1.43848pt too wide) in paragraph at lines 380--381
-\EU1/Cambria(0)/m/n/10 accent in Devanagari, he marks udātta accent in the Latin script form. The accent is marked
- []
-
-[18]
+<use  "./imgs/Capeller-SapaTya.png" > [18]
 File: ./imgs/macdonnell-agrepA.png Graphic file (type QTm)
- <use  "./imgs/macdonnell-agrepA.png" >
-./vedic-accent-in-lexicography.tex:388: Undefined control sequence.
-<argument> ...paces The entry agrepā́ in \citet 
-                                                  {md}}}{\thepage }}
-l.388 ...agrepA}The entry agrepā́ in \citet{md}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:388: Undefined control sequence.
-<argument> ...grepA}The entry agrepā́ in \citet 
-                                                  {md}\unskip \strut }}
-l.388 ...agrepA}The entry agrepā́ in \citet{md}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:388: Undefined control sequence.
-<argument> ...grepA}The entry agrepā́ in \citet 
-                                                  {md}}}
-l.388 ...agrepA}The entry agrepā́ in \citet{md}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:393: Undefined control sequence.
-l.393 ...achträge zum Sanskrit-Wörterbuch \citep
-                                                  {sch} writes Sanskrit in L...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:393: Undefined control sequence.
-l.393 ...tance of an independent svarita in \citet
-                                                  {sch}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:397: Undefined control sequence.
-l.397 ...the headwords. One single work – \citet
-                                                  {pwg} – features extensi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:397: Undefined control sequence.
-l.397 ...adword form on the udātta accent. \citet
-                                                  {pwg}, \citet{mw}, and \ci...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:397: Undefined control sequence.
-l.397 ...n the udātta accent. \citet{pwg}, \citet
-                                                  {mw}, and \citet{ccs,cae} ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:397: Undefined control sequence.
-l.397 ...cent. \citet{pwg}, \citet{mw}, and \citet
-                                                  {ccs,cae} mark independent...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:397: Undefined control sequence.
-l.397 ...ent device than the udātta, while \citet
-                                                  {gra} basically reinterpre...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:397: Undefined control sequence.
-l.397 ...t as the udātta. Two dictionaries \citep
-                                                  {md,sch} seem to lack inst...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+ <use  "./imgs/macdonnell-agrepA.png" > [19]
 
 Class scrreprt Warning: Usage of deprecated font command `\bf'!
 (scrreprt)              You should note, that in 1994 font command `\bf' has
@@ -2475,211 +1554,15 @@ Class scrreprt Warning: Usage of deprecated font command `\bf'!
 (scrreprt)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrreprt)              by `\normalfont \bfseries ' on input line 405.
 
-./vedic-accent-in-lexicography.tex:406: Undefined control sequence.
-<recently read> \citet 
-                       
-l.406  \citet
-             {pwg} & {\devfont अग्नि꣫} & {\devfont अग्र�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-./vedic-accent-in-lexicography.tex:407: Undefined control sequence.
-<recently read> \citet 
-                       
-l.407  \citet
-             {mw} & {\devfont अग्नि} agní & {\devfont अग्�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:408: Undefined control sequence.
-<recently read> \citet 
-                       
-l.408  \citet
-             {gra} & agní & agrajâ & çapathýa \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:409: Undefined control sequence.
-<recently read> \citet 
-                       
-l.409  \citet
-             {ccs,cae}  & {\devfont अग्नि॑} & {\devfont अग�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:410: Undefined control sequence.
-<recently read> \citet 
-                       
-l.410 \citet
-            {md}  & {\devfont अग्नि} agní & {\devfont अग्�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:411: Undefined control sequence.
-<recently read> \citet 
-                       
-l.411 \citet
-            {sch} & agní & parapā́tam & —
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[19] [20]
-Chapter 5.
-./vedic-accent-in-lexicography.tex:420: Undefined control sequence.
-l.420 The Cologne Sanskrit Lexicon (CSL)\citep
-                                              {markingMonier,KappMalten1997}...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:420: Undefined control sequence.
-l.420 ...served in the digitisation process \citep
-                                                  [][as described in]{KappMa...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (16.98714pt too wide) in paragraph at lines 420--421
-\EU1/Cambria(0)/m/n/10 The Cologne Sanskrit Lexicon (CSL)markingMonier,KappMalten1997 – also known as Cologne
+Overfull \hbox (16.93193pt too wide) in paragraph at lines 404--414
+ [] 
  []
 
-./vedic-accent-in-lexicography.tex:422: Undefined control sequence.
-l.422 ...l difference to SLP1 as defined in \citet
-                                                  {ScharfHyman2011} is that ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:422: Undefined control sequence.
-l.422 ...from the Śatapatha Brāhmaṇa in \citet
-                                                  {pwg}. In particular, this...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:422: Undefined control sequence.
-l.422 ...king system found in quotations in \citet
-                                                  {pwg} or independent svari...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:422: Undefined control sequence.
-l.422 ...ent svarita as in the headwords in \citet
-                                                  {pwg}. In \citet{pwg}, und...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:422: Undefined control sequence.
-l.422 ...n the headwords in \citet{pwg}. In \citet
-                                                  {pwg}, underscore {\devfon...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:422: Undefined control sequence.
-l.422 ...s of the Śatapatha Brāhmaṇa in \citet
-                                                  {pwg} or whether it is the...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:424: Undefined control sequence.
-l.424 ...nt जन्मन्} janman from \citet
-                                                  {pwg}. The aggravated inde...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:424: Undefined control sequence.
-l.424 ...tt{{\textasciicircum}97} following \citet
-                                                  {ScharfHyman2011}, but is ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+[20]
+Chapter 5.
 File: ./imgs/RV-8-3-1-1.png Graphic file (type QTm)
 <use  "./imgs/RV-8-3-1-1.png" >
-./vedic-accent-in-lexicography.tex:432: Undefined control sequence.
-<argument> ...vated independent svarita in \citet 
-                                                  {pwg}\unskip \strut }}
-l.432 ...vated independent svarita in \citet{pwg}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:432: Undefined control sequence.
-<argument> ...vated independent svarita in \citet 
-                                                  {pwg}}}
-l.432 ...vated independent svarita in \citet{pwg}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:436: Undefined control sequence.
-l.436 ...results in the correspondences for \citet
-                                                  {pwg} and potentially \cit...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:436: Undefined control sequence.
-l.436 ...es for \citet{pwg} and potentially \citet
-                                                  {pw}, given in \ref{tab:cs...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 Class scrreprt Warning: Usage of deprecated font command `\bf'!
 (scrreprt)              You should note, that in 1994 font command `\bf' has
@@ -2839,36 +1722,9 @@ Overfull \hbox (14.94121pt too wide) in paragraph at lines 444--456
  [] 
  []
 
-./vedic-accent-in-lexicography.tex:461: Undefined control sequence.
-l.461 ...t when quoted passages as found in \citet
-                                                  {pwg} are converted into L...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./vedic-accent-in-lexicography.tex:461: Undefined control sequence.
-l.461 ...nto the R̥gveda marking system by \citet
-                                                  {pwg} makes an automatic c...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 [21
 
 ]
-./vedic-accent-in-lexicography.tex:463: Undefined control sequence.
-l.463 ... of the two Cappeller dictionaries \citep
-                                                  {ccs,cae}, the vertical st...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 Class scrreprt Warning: Usage of deprecated font command `\bf'!
 (scrreprt)              You should note, that in 1994 font command `\bf' has
@@ -2883,23 +1739,33 @@ Class scrreprt Warning: Usage of deprecated font command `\bf'!
 (scrreprt)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrreprt)              by `\normalfont \bfseries ' on input line 471.
 
-(/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.bbl [22]) [23
+(/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.bbl [22]
+Underfull \hbox (badness 2310) in paragraph at lines 90--95
+[]\EU1/Cambria(0)/m/n/10 Mīmāṁsaka, Yudhiṣṭhira Vikrama. 1964.  \EU1/Cambria(0)/m/it/10 Vaidika-vāṅmaya meṁ prayukta vividha
+ []
 
-] (/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.aux)
+[23
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 484.
+ [24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 484.
+ (/Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 484.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 484.
+
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 484.
  ) 
 Here is how much of TeX's memory you used:
- 15239 strings out of 493706
- 318266 string characters out of 6145769
- 412119 words of memory out of 5000000
- 18446 multiletter control sequences out of 15000+600000
- 6736 words of font info for 68 fonts, out of 8000000 for 9000
+ 23349 strings out of 493706
+ 437215 string characters out of 6145769
+ 545837 words of memory out of 5000000
+ 26456 multiletter control sequences out of 15000+600000
+ 5545 words of font info for 70 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 60i,8n,102p,10400b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,102p,10400b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.pdf (23 pages).
+Output written on /Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.pdf (24 pages).

@@ -1,8 +1,18 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{25}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{B{\"o}htlingk(1879-1889)}]{pw}
+B{\"o}htlingk, Otto~von. 1879-1889.
+\newblock {\em {Sanskrit-W{\"o}rterbuch} in k{\"u}rzerer {Fassung}\/}.
+\newblock St.~Petersburg: Kaiserliche Akademie der Wissenschaften.
+
+\bibitem[{B{\"o}htlingk and Roth(1855-1875)}]{pwg}
+B{\"o}htlingk, Otto~von, and Rudolf Roth. 1855-1875.
+\newblock {\em {Sanskrit-W{\"o}rterbuch}\/}.
+\newblock St.~Petersburg: Kaiserliche Akademie der Wissenschaften.
 
 \bibitem[{Br{\"u}ckner et~al.(2007)Br{\"u}ckner, Zeller, and
   Stache-Weiske}]{BruecknerZeller2007}
@@ -10,5 +20,131 @@ Br{\"u}ckner, Heidrun, Gabriele Zeller, and Agnes Stache-Weiske, ed. 2007.
 \newblock {\em {Otto} {B{\"o}htlingk} an {Rudolf} {Roth} : {Briefe} zum
   {Petersburger} {W{\"o}rterbuch} 1852-1885\/}.
 \newblock Wiesbaden: Harrassowitz.
+
+\bibitem[{Cappeler(1887)}]{ccs}
+Cappeler, Carl. 1887.
+\newblock {\em {Sanskrit-W{\"o}rterbuch}\/}.
+\newblock Stra{\ss}burg: Tr{\"u}bner.
+
+\bibitem[{Cappeler(1891)}]{cae}
+Cappeler, Carl. 1891.
+\newblock {\em {Sanskrit}-{English} dictionary\/}.
+\newblock Stra{\ss}burg: Tr{\"u}bner.
+
+\bibitem[{Everson and Scharf(2007)}]{EversonScharf2007}
+Everson, Michael, and Peter Scharf. 2007.
+\newblock Revised proposal to encode characters for {Vedic} {Sanskrit} in the
+  {BMP} of the {UCS}.
+\newblock
+  \urlprefix\url{http://www.unicode.org/~emuller/southasia/vedic/07230-n3290-vedic.pdf}.
+
+\bibitem[{Funderburk and Malten(2008)}]{markingMonier}
+Funderburk, Jim, and Thomas Malten. 2008.
+\newblock Marking monier: Current state of digitized monier- williams
+  dictionary.
+\newblock
+  \urlprefix\url{http://www.sanskrit-lexicon.uni-koeln.de/talkMay2008/markingMonier.html}.
+
+\bibitem[{Grassmann(1873)}]{gra}
+Grassmann, Hermann. 1873.
+\newblock {\em {W{\"o}rterbuch} zum {Rig}-{Veda}\/}.
+\newblock Leipzig: Brockhaus.
+
+\bibitem[{Hoffmann(1956)}]{Hoffmann1956}
+Hoffmann, Karl. 1956.
+\newblock Notizen zu wackernagel-debrunner, altindische grammatik ii.2.
+\newblock {\em M{\"u}nchener Studien zur Sprachwissenschaft\/} 8:5--24.
+
+\bibitem[{Howard(1986)}]{Howard1986}
+Howard, Wayne. 1986.
+\newblock {\em Veda recitation in {Varanasi}\/}.
+\newblock Delhi: Motilal Banarsidass.
+
+\bibitem[{Kapp and Malten(1997)}]{KappMalten1997}
+Kapp, Dieter, and Thomas Malten. 1997.
+\newblock Report on the cologne sanskrit dictionary project.
+\newblock \urlprefix\url{http://www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf}.
+
+\bibitem[{Kiparsky(1973)}]{Kiparsky1973}
+Kiparsky, Paul. 1973.
+\newblock The inflectional accent in {Indo}-{European}.
+\newblock {\em Language\/} 49:794--849.
+
+\bibitem[{Lubotsky(1988)}]{Lubotsky1988}
+Lubotsky, Alexander~M. 1988.
+\newblock {\em The system of nominal accentuation in {Sanskrit} and
+  {Proto}-{Indo}-{European}\/}.
+\newblock Leiden: Brill.
+
+\bibitem[{MacDonell(1893)}]{md}
+MacDonell, Arthur~Anthony. 1893.
+\newblock {\em A {Sanskrit}-{English} {Dictionary}\/}.
+\newblock London: Longmans.
+
+\bibitem[{MacDonell(1916)}]{Macdonell1916}
+MacDonell, Arthur~Anthony. 1916.
+\newblock {\em A {Vedic} grammar for students\/}.
+\newblock Oxford: Clarendon.
+
+\bibitem[{M{\=\i}m{\=a}{\.m}saka(1964)}]{MYV1964}
+M{\=\i}m{\=a}{\.m}saka, Yudhi{\d s}{\d t}hira~Vikrama. 1964.
+\newblock {\em Vaidika-v{\=a}{\.n}maya me{\.m} prayukta vividha
+  svar{\=a}{\.n}kana prak{\=a}ra\/}.
+\newblock Ajmer: Bh{\=a}rat{\=\i}ya Pr{\=a}cyavidy{\=a} Prat{\d s}{\d
+  t}h{\=a}na.
+
+\bibitem[{Monier-Williams(1872)}]{mw72}
+Monier-Williams, Monier. 1872.
+\newblock {\em A {Sanskrit}-{English} dictionary\/}.
+\newblock Oxford: Clarendon.
+
+\bibitem[{Monier-Williams(1899)}]{mw}
+Monier-Williams, Monier. 1899.
+\newblock {\em A {Sanskrit}-{English} dictionary, new edition.\/}.
+\newblock Oxford: Clarendon.
+
+\bibitem[{Scharf(2007)}]{Scharf2007}
+Scharf, Peter~M. 2007.
+\newblock {\em The various methods of marking accent employed in {Vedic}
+  literature: Notes translated and adapted from {Yudhi{\d s}{\d t}hira}
+  {M{\=\i}m{\=a}{\.m}saka}'s {Hindi}-language work\/}.
+\newblock Providence: The Sanskrit Library.
+\newblock
+  \urlprefix\url{http://sanskrit1.ccv.brown.edu/VedicUnicode/passages/PassagesYudhisthiraMimamsakaSvarV.pdf}.
+
+\bibitem[{Scharf and Hyman(2011)}]{ScharfHyman2011}
+Scharf, Peter~M., and Malcolm~D. Hyman. 2011.
+\newblock {\em Linguistic issues in encoding {Sanskrit}\/}.
+\newblock Providence: The Sanskrit Library.
+\newblock \urlprefix\url{sanskrit1.ccv.brown.edu/tomcat/sl/-/pub/lies_sl.pdf}.
+
+\bibitem[{Schmidt(1928)}]{sch}
+Schmidt, Richard. 1928.
+\newblock {\em Nachtr{\"a}ge zum {Sanskrit}-{W{\"o}rterbuch}: in k{\"u}rzerer
+  {Fassung} von {Otto} {B{\"o}htlingk}\/}.
+\newblock Leipzig: Harrassowitz.
+
+\bibitem[{Weber(1849)}]{Weber1849}
+Weber, Albrecht. 1849.
+\newblock {\em The {{\c C}atapatha}-{Br{\^a}hma{\d n}a} in the
+  {M{\^a}dhyandina}-{{\c C}{\^a}kh{\^a}}\/}.
+\newblock The {White} {Yajurveda} 2. Berlin: D{\"u}mmler.
+
+\bibitem[{Whitney(1869-1870)}]{Whitney1869}
+Whitney, William~Dwight. 1869-1870.
+\newblock On the nature and designation of the accent in {Sanskrit}.
+\newblock {\em Transactions of the American Philological Association
+  1869-1896\/} 1.
+
+\bibitem[{Whitney(1889)}]{Whitney1889}
+Whitney, William~Dwight. 1889.
+\newblock {\em A {Sanskrit} grammar\/}.
+\newblock Leipzig: Breitkopf und H{\"a}rtel.
+
+\bibitem[{Witzel(1974)}]{Witzel1974}
+Witzel, Michael. 1974.
+\newblock On some unknown systems of marking the {Vedic} accents.
+\newblock {\em Vishveshvaranand Indological Journal\/} XII (Vishvabandhu
+  Commemoration Volume):472--508.
 
 \end{thebibliography}

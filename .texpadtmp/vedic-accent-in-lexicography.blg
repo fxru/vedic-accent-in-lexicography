@@ -3,44 +3,51 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.aux
 The style file: .././files/linquiry2.bst
 Database file #1: .././files/CSL.bib.bib
-You've used 1 entry,
+Warning--entry type for "KappMalten1997" isn't style-file defined
+--line 191 of file .././files/CSL.bib.bib
+Warning--entry type for "markingMonier" isn't style-file defined
+--line 228 of file .././files/CSL.bib.bib
+Warning--entry type for "EversonScharf2007" isn't style-file defined
+--line 237 of file .././files/CSL.bib.bib
+You've used 25 entries,
             2697 wiz_defined-function locations,
-            591 strings with 5059 characters,
-and the built_in function-call counts, 501 in all, are:
-= -- 37
-> -- 31
-< -- 0
-+ -- 10
-- -- 9
-* -- 45
-:= -- 92
-add.period$ -- 4
-call.type$ -- 1
-change.case$ -- 8
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 21
-empty$ -- 39
-format.name$ -- 12
-if$ -- 96
+            732 strings with 8195 characters,
+and the built_in function-call counts, 9185 in all, are:
+= -- 823
+> -- 345
+< -- 24
++ -- 139
+- -- 96
+* -- 612
+:= -- 1735
+add.period$ -- 103
+call.type$ -- 25
+change.case$ -- 157
+chr.to.int$ -- 25
+cite$ -- 25
+duplicate$ -- 438
+empty$ -- 785
+format.name$ -- 143
+if$ -- 1848
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 12
-num.names$ -- 5
-pop$ -- 12
+missing$ -- 39
+newline$ -- 134
+num.names$ -- 101
+pop$ -- 185
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 132
 quote$ -- 0
-skip$ -- 13
+skip$ -- 318
 stack$ -- 0
-substring$ -- 11
-swap$ -- 3
+substring$ -- 347
+swap$ -- 39
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 171
 warning$ -- 0
-while$ -- 3
+while$ -- 78
 width$ -- 0
-write$ -- 18
+write$ -- 315
+(There were 3 warnings)
