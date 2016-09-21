@@ -1,0 +1,130 @@
+\documentclass[10pt,twoside,BCOR12mm,DIV11,headinclude=false,footinclude=false]{scrreprt}
+
+%%
+
+%\usepackage{makeidx}
+%\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%    FONTS   % % % 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{fontspec}
+
+
+%%%
+
+\setromanfont[Mapping=tex-text]{Cambria}
+\setsansfont{Helvetica Neue Light}
+\setmonofont[Scale=MatchLowercase]{Menlo}
+\newfontfamily\devfont[Renderer=Graphite,Script=Devanagari,Language=Sanskrit]{Annapurna SIL}
+\newfontfamily\tamfont[Script=Tamil,Language=Tamil]{Arial Unicode MS}
+
+\newfontinstance\devbfont[Renderer=Graphite,Script=Devanagari,Language=Sanskrit]{Annapurna SIL Bold}
+
+\newcommand{\scb}[1]{\textbf{\textsc{#1}}}
+\newcommand{\infont}[1]{\textsc{\scriptsize #1}}
+\newcommand{\embf}[1]{\textbf{\emph{#1}}}
+\newcommand{\echov}[1]{\textrm{\scriptsize #1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%    PAGE LAYOUT   % % %
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\typearea[current]{classic}
+\usepackage[headsepline,automark]{scrpage2}
+
+% * GENERAL PAGE LAYOUT SETTINGS * * * * * * * * * * * * * * * * * * * * * * 
+
+\setkomafont{pagenumber}{\normalfont\sffamily\bfseries}
+
+\newcommand{\myversion}{\begin{scriptsizeLazarus Project (Cologne Sanskrit Lexicon) Project Documentation 2\end{scriptsize}}
+
+
+
+% * * FXRU HEADINGS * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+\newpagestyle{fxruheadings}{%
+{\rightmark\hfill}%
+{\hfill\rightmark}%
+{\hfill}%
+(\textwidth, .4pt)}%
+{%
+{\pagemark \quad \vline \quad  \textit{\leftmark} \hfill  \myversion}%
+{ \myversion\hfill \textit{\leftmark} \quad \vline \quad \pagemark}%
+{\hfill\pagemark \hfill}%
+}
+
+% * * FXRU LEX HEADINGS * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+% TO DO
+
+
+% * * FXRU APPENDIX HEADINGS * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+\newpagestyle{fxrutextheadings}{%
+{\rightmark\hfill}%
+{\hfill\rightmark}%
+{\hfill}%
+(\textwidth, .4pt)}%
+{%
+{\pagemark \quad \vline \quad  \textit{\rightmark} \hfill  \myversion}%
+{ \myversion\hfill \textit{\rightmark} \quad \vline \quad \pagemark}%
+{\hfill\pagemark \hfill}%
+}
+
+
+%%
+
+%\usepackage[headsepline,automark]{scrpage2}
+%\pagestyle{scrheadings}
+\pagestyle{fxruheadings}
+\automark[chapter]{subsection}
+\pagenumbering{arabic}
+
+
+
+% LAYOUT STRUCTURE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%  OTHER PACKAGES       %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{rotating}
+\usepackage{multicol}
+\usepackage{natbib}
+\usepackage{graphicx}
+
+
+%Test features%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{xltxtra}
+\usepackage{hyperref}
+\hypersetup{								%
+unicode=true,								%
+pdftex, 										%
+colorlinks=true, 							% 
+linkcolor=black,  						%
+citecolor=black, 							%
+filecolor=black,  							%
+pagecolor=, 								%
+urlcolor=black,  							%
+pdftitle={Vedic Accent and Lexicography}, 	%
+pdfauthor={Felix Rau} 				%
+}
+
+\def\partautorefname{part}
+\def\chapterautorefname{\S}
+\def\sectionautorefname{\S}
+\def\subsectionautorefname{\S}
+\def\subsubsectionautorefname{\S}
+\def\paragraphautorefname{\S}
+
+%%%%%%
+\usepackage{gb4e}
