@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Br{\"u}ckner et~al.(2007)Br{\"u}ckner, Zeller, and
+  Stache-Weiske}]{BruecknerZeller2007}
+Br{\"u}ckner, Heidrun, Gabriele Zeller, and Agnes Stache-Weiske, ed. 2007.
+\newblock {\em {Otto} {B{\"o}htlingk} an {Rudolf} {Roth} : {Briefe} zum
+  {Petersburger} {W{\"o}rterbuch} 1852-1885\/}.
+\newblock Wiesbaden: Harrassowitz.
+
+\end{thebibliography}

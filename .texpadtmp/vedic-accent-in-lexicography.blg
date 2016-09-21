@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/fxru/Dropbox/Projects/CDSL/vedic-accent-in-lexicography/.texpadtmp/vedic-accent-in-lexicography.aux
+The style file: .././files/linquiry2.bst
+Database file #1: .././files/CSL.bib.bib
+You've used 1 entry,
+            2697 wiz_defined-function locations,
+            591 strings with 5059 characters,
+and the built_in function-call counts, 501 in all, are:
+= -- 37
+> -- 31
+< -- 0
++ -- 10
+- -- 9
+* -- 45
+:= -- 92
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 8
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 21
+empty$ -- 39
+format.name$ -- 12
+if$ -- 96
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 12
+num.names$ -- 5
+pop$ -- 12
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 13
+stack$ -- 0
+substring$ -- 11
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 0
+while$ -- 3
+width$ -- 0
+write$ -- 18
