@@ -177,7 +177,7 @@ Two encoding systems are relevant for our discussion of pitch accent markers in 
 
 \section{Unicode}
 
-The Unicode Standard maintained by the Unicode Consortium\footnote{http://unicode.org/} is the most important system to encode characters in digital media. It is crucial for any digital approach to lexicography, especially web-based ones. At the time of writing, the current version is Unicode 7.0.\footnote{http://www.unicode.org/versions/Unicode7.0.0/} The Unicode standard defines over 110,000 characters and assigns them to code points. The Devanagari block of the Unicode standard (code points U+0900 to U+097F) is well supported by fonts found in all major operational systems and even the rendering of the particularly complex ligatures found in Sanskrit is well implemented in these fonts. However, even though it is the largest encoding standard in existence, it is not possible to represent the different traditions of Vedic accent in a straightforward manner. 
+The Unicode Standard maintained by the Unicode Consortium\footnote{\url{http://unicode.org/}} is the most important system to encode characters in digital media. It is crucial for any digital approach to lexicography, especially web-based ones. At the time of writing, the current version is Unicode 7.0.\footnote{\url{http://www.unicode.org/versions/Unicode7.0.0/}} The Unicode standard defines over 110,000 characters and assigns them to code points. The Devanagari block of the Unicode standard (code points U+0900 to U+097F) is well supported by fonts found in all major operational systems and even the rendering of the particularly complex ligatures found in Sanskrit is well implemented in these fonts. However, even though it is the largest encoding standard in existence, it is not possible to represent the different traditions of Vedic accent in a straightforward manner. 
 
 Let us first examine the diacritics used in the Latin alphabet, as these are well represented in the Unicode standard. The acute and grave accent as well as the combining underscore are included in the Unicode block Combining Diacritical Marks. The relevant glyphs with their respective code points and name are given below.\footnote{Note that additionally several combined characters consisting of vowel glyphs with the acute and grave accent diacritics have their own code points e.g. á U+00E1 {\sc latin small letter a with acute}.}
 
@@ -204,16 +204,26 @@ The representation of Vedic accents in the Latin alphabet and its encoding in th
 \caption[Relevant characters from the Devanagari range]{\label{tab:unidev}Relevant characters from the Devanagari range}
 \end{figure}
 
-Additionally, the Unicode standard contains a block of 48 code points (ranging from U+1CD0 to U+1CFF) called Vedic Extension. This block contains several diacritical characters organised by the textual traditions. The traditions explicitly named are Sāmaveda, Yajurveda, Śatapatha Brāhmaṇa, R̥gveda, and Atharvaveda. Not all of these are accent marking characters and in fact only one of them, a small J-shaped diacritical hook placed below the main character is used in lexicographic works. This character is given in Figure \ref{fig:j-shape}. Unfortunately, no widespread font seems to contain a glyph for this character, making it problematic for use in web-based applications.
+Additionally, the Unicode standard contains a block of 48 code points (ranging from U+1CD0 to U+1CFF) called Vedic Extension. This block contains several diacritical characters organised by the textual traditions. The traditions explicitly named are Sāmaveda, Yajurveda, Śatapatha Brāhmaṇa, R̥gveda, and Atharvaveda. Not all of these are accent marking characters and in fact only one of them, a small J-shaped diacritical hook placed below the main character {\devfont क᳗} is used in lexicographic works. This character is given in Figure \ref{fig:j-shape}. Unfortunately, only Google’s Noto Devanagari font\footnote{\url{https://www.google.com/get/noto/\#serif-deva} and \url{https://www.google.com/get/noto/\#sans-deva}} seems to contain a glyph for this character.
 
 \begin{figure}[!ht]
 \begin{center}
-\resizebox{8cm}{!}{%
-\includegraphics*{./imgs/j-shape.png}
-}
+\begin{tabular}{ll}
+  {\devfont ᳗ }& U+1CD7 {\sc vedic tone yajurvedic kathaka independent svarita}
+\end{tabular}
 \end{center}
 \caption[The relevant character from the Vedic Extension range]{\label{fig:j-shape}The relevant character from the Vedic Extension range}
 \end{figure}
+
+
+%\begin{figure}[!ht]
+%\begin{center}
+%\resizebox{8cm}{!}{%
+%\includegraphics*{./imgs/j-shape.png}
+%}
+%\end{center}
+%\caption[The relevant character from the Vedic Extension range]{\label{fig:j-shape2}The relevant character from the Vedic Extension range}
+%\end{figure}
 
 Some means of accent marking found in textual traditions and in lexicographical works have been included into the Unicode standard. This block is called Devanagari extended and contains 38 code points (ranging from U+A8E0 to U+A8FF). It has been included following the proposal by \citet{EversonScharf2007}. This extension adds the diacritical numerals of the Sāmaveda tradition, and the diacritical raised letters, including the lexicographically highly important diacritical raised {\devfont उ} which is used as an udātta marker in the system invented by Böhtlingk and Roth for their dictionary. The characters relevant for Sanskrit lexicography are the following four code points:
 
@@ -364,7 +374,7 @@ Udātta accent on a short vowel is marked by an acute accent á. On diphthongs, 
 
 \section{Cappeller Sanskrit Wörterbuch (1887) \& Sanskrit-English Dictionary (1891)}
 
-Cappeller in his Sanskrit Wörterbuch \citep{ccs} and his Sanskrit-English Dictionary \citep{cae} follows \citet{pwg} in setting Sanskrit words exclusively in Devanagari and indicating udātta and independent svarita accents. However, the system used in \citet{ccs,cae} is different in the diacritical characters it employs. The diacritical inventory of these two dictionaries is derived from the Kāṭhaka Saṃhitā Kr̥ṣṇa Yajurveda. It uses the vertical stroke over the central glyph of the syllable {\devfont क॑} to indicate udātta accent and a lying J-shaped diacritic below the syllable to indicate independent svarita. This diacritical accent marker can be seen in the entry śapathya from \citet{cae} in Figure \ref{fig:Capeller-SapaTya}. The system can be encoded in Unicode with the following code points – U+0951 {\sc devanagari stress sign udatta} and U+1CD7 {\sc vedic tone yajurvedic kathaka independent svarita} – but the latter character is not included in any of the widespread Devanagari fonts. 
+Cappeller in his Sanskrit Wörterbuch \citep{ccs} and his Sanskrit-English Dictionary \citep{cae} follows \citet{pwg} in setting Sanskrit words exclusively in Devanagari and indicating udātta and independent svarita accents. However, the system used in \citet{ccs,cae} is different in the diacritical characters it employs. The diacritical inventory of these two dictionaries is derived from the Kāṭhaka Saṃhitā Kr̥ṣṇa Yajurveda. It uses the vertical stroke over the central glyph of the syllable {\devfont क॑} to indicate udātta accent and a lying J-shaped diacritic below the syllable {\devfont क᳗} to indicate independent svarita. This diacritical accent marker can be seen in the entry śapathya from \citet{cae} in Figure \ref{fig:Capeller-SapaTya}. The system can be encoded in Unicode with the following code points – U+0951 {\sc devanagari stress sign udatta} and U+1CD7 {\sc vedic tone yajurvedic kathaka independent svarita} – but the latter character is not included in any of the widespread Devanagari fonts. 
 
 \begin{figure}[!ht]
 \begin{center}
@@ -406,7 +416,7 @@ Seven dictionaries record Vedic accent in the headwords. One single work – \ci
  \citet{pwg} & {\devfont अग्नि꣫} & {\devfont अग्रजा꣫} & {\devfont शपथ्य॑}\\
  \citet{mw} & {\devfont अग्नि} agní & {\devfont अग्रजा} agrajā́ & {\devfont शपथ्य} ṡapathyà \\
  \citet{gra} & agní & agrajâ & çapathýa \\
- \citet{ccs,cae}  & {\devfont अग्नि॑} & {\devfont अग्रेपा॑} & {\devfont शपथ्य} {\scriptsize[lying J below {\devfont य}]}\\
+ \citet{ccs,cae}  & {\devfont अग्नि॑} & {\devfont अग्रेपा॑} & {\devfont शपथ्य᳗}\\
 \citet{md}  & {\devfont अग्नि} agní & {\devfont अग्रेपा} agrepâ´ & — \\
 \citet{sch} & agní & parapā́tam & —
 \end{tabular}
@@ -417,7 +427,7 @@ Seven dictionaries record Vedic accent in the headwords. One single work – \ci
 
 \chapter{Principles applied in the TEI CSL}
 
-The Cologne Sanskrit Lexicon (CSL)\citep{markingMonier,KappMalten1997} – also known as Cologne Digital Sanskrit Lexicon – is the largest lexicographical resource for Sanskrit. The creation of a TEI version of the Cologne Sanskrit Lexicon is part of the Lazarus Project\footnote{http://www.cceh.uni-koeln.de/lazarus} and aims for long-time preservation of the data. It is based on the original digitisations and mark-up versions of the CSL and uses the TEI Guidelines, especially the dictionary module. The objective of the TEI Cologne Sanskrit Lexicon is to preserve all information contained in the original prints, as far as it was preserved in the digitisation process \citep[][as described in]{KappMalten1997}, while using a well documented and standardised XML. The second objective is to display the information as consistent and faithfully as possible to the original prints, while allowing the user to choose the writing system in which the Sanskrit words are displayed.
+The Cologne Sanskrit Lexicon (CSL)\citep{markingMonier,KappMalten1997} – also known as Cologne Digital Sanskrit Lexicon – is the largest lexicographical resource for Sanskrit. The creation of a TEI version of the Cologne Sanskrit Lexicon is part of the Lazarus Project\footnote{\url{http://www.cceh.uni-koeln.de/lazarus}} and aims for long-time preservation of the data. It is based on the original digitisations and mark-up versions of the CSL and uses the TEI Guidelines, especially the dictionary module. The objective of the TEI Cologne Sanskrit Lexicon is to preserve all information contained in the original prints, as far as it was preserved in the digitisation process \citep[][as described in]{KappMalten1997}, while using a well documented and standardised XML. The second objective is to display the information as consistent and faithfully as possible to the original prints, while allowing the user to choose the writing system in which the Sanskrit words are displayed.
 
 Internally, the CSL uses a slightly modified version of SLP1 to encode Sanskrit. The crucial difference to SLP1 as defined in \citet{ScharfHyman2011} is that the CSL encodes accent diacritical marks and not the accents themselves. That enables the system to be agnostic to the system employed and to the interpretation of the system. This is particularly crucial in the case of the passages from the Śatapatha Brāhmaṇa in \citet{pwg}. In particular, this means that the vertical stroke {\devfont क॑} is internally represented as \texttt{\textasciicircum} regardless of whether {\devfont क॑} represents dependent or independent svarita as in the R̥gveda accent marking system found in quotations in \citet{pwg} or independent svarita as in the headwords in \citet{pwg}. In \citet{pwg}, underscore {\devfont क॒} is internally represented as \texttt{\textbackslash} regardless of whether it represents anudātta accent as in the R̥gveda accent marking system found in quotations from the R̥gveda, Atharvaveda, Sāmaveda, and some passages of the Śatapatha Brāhmaṇa in \citet{pwg} or whether it is the only accent mark of the Śatapatha Brāhmaṇa system with disputed function. 
 
@@ -460,7 +470,7 @@ ISO 15919 & {\devfont ◌꣫} & \texttt{{/}} & U+0301 {\sc combining acute accen
 
 However, this means that the accent marking is lost when quoted passages as found in \citet{pwg} are converted into Latin script. An algorithm that allows to convert the anudātta and svarita of the R̥gveda marking system into the udātta and independent svarita marking indological Romanisation is not trivial. The fact that some (but not all) quotations from the Śatapatha Brāhmaṇa are in the Śatapatha Brāhmaṇa system while others were converted into the R̥gveda marking system by \citet{pwg} makes an automatic conversion virtually impossible.
 
-Unfortunately, in the case of the two Cappeller dictionaries \citep{ccs,cae}, the vertical stroke {\devfont क॑} (representing udātta accent) is encoded as \texttt{{/}} in the internal representation of the CSL and the same character has been used to encode the lying J-shaped line below (representing independent svarita). This issue is so far unresolved.
+Unfortunately, in the case of the two Cappeller dictionaries \citep{ccs,cae}, the vertical stroke {\devfont क॑} (representing udātta accent) is encoded as \texttt{{/}} in the internal representation of the CSL and the same character has been used to encode the lying J-shaped line below {\devfont क᳗} (representing independent svarita). This issue is so far unresolved.
 
 \begin{figure}[!ht]
 \begin{center}
@@ -468,7 +478,7 @@ Unfortunately, in the case of the two Cappeller dictionaries \citep{ccs,cae}, th
 \setlength{\tabcolsep}{10pt} % Default value: 6pt
 \renewcommand{\arraystretch}{1.5} % Default value: 1
 \begin{tabular}{lllll}
- & {\devbfont क꣫} & {\devbfont क॑} & {\devbfont क॒} & {\bf [Lying J below]}\\
+ & {\devbfont क꣫} & {\devbfont क॑} & {\devbfont क॒} & {\devbfont क᳗}\\
 Böhtlingk \& Roth&\texttt{{/}}&\texttt{{\textasciicircum}}&\texttt{{\textbackslash}} &\\
 Capeller&&\texttt{{/}}&&\texttt{{/}}
 \end{tabular}
